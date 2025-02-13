@@ -1,0 +1,15 @@
+[
+    {
+        "student_id": 5,
+        "phone_number": "+7931435454543",
+        "first_name": "string",
+        "last_name": "string",
+        "date_of_birth": "2014-02-13",
+        "email": "user@example.com",
+        "address": "stringstri",
+        "enrollment_year": 2002,
+        "major": "Computer Science",
+        "course": 4,
+        "special_notes": "string"
+    }
+]
